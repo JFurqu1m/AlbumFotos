@@ -29,3 +29,8 @@ C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreap
 C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\AlbumFotos.pdb
 C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\AlbumFotos.genruntimeconfig.cache
 C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\AlbumFotos.csproj.CopyComplete
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Create.cshtml.g.cs
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Delete.cshtml.g.cs
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Details.cshtml.g.cs
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Edit.cshtml.g.cs
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Index.cshtml.g.cs
