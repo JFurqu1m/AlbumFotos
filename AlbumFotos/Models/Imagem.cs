@@ -10,7 +10,7 @@ namespace AlbumFotos.Models
     {
         public int ImagemId { get; set; }
 
-        [Required(ErrorMessage="Campo obrigatório")]
+       
         public string Link { get; set; }
         public int AlbumId { get; set; }
         public Album Album { get; set; }

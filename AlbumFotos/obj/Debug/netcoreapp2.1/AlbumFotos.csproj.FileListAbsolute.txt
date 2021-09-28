@@ -33,3 +33,5 @@ C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreap
 C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Details.cshtml.g.cs
 C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Edit.cshtml.g.cs
 C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Index.cshtml.g.cs
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Imagens\Create.cshtml.g.cs
+C:\Users\jeferson.souza\Desktop\Course\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Imagem\Default.cshtml.g.cs

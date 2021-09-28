@@ -26,8 +26,9 @@
         <a asp-controller="Imagens" asp-action="Create" asp-route-id="@Model.AlbumId" class="btn-small">Nova foto</a> |
         <a asp-action="Index" class="btn-small grey darken-3">Voltar</a>
     </div>
-
 </div>
+
+@await Component.InvokeAsync("Imagem", new {id = Model.AlbumId}) 
 
 
 @section Scripts{
