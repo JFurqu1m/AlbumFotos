@@ -154,6 +154,21 @@ namespace AlbumFotos.Controllers
         public async Task<JsonResult> Delete(int AlbumId)
         {
             var album = await _context.Albuns.FindAsync(AlbumId);
+            IEnumerable<string> links = _context.Imagens.Where(i => i.AlbumId == AlbumId).Select(i => i.Link);
+
+            foreach(var link in links)
+            {
+                var linkImagem = link.Replace("~", "wwwroot");
+                System.IO.File.Delete(linkImagem);
+            }
+
+            _context.Imagens.RemoveRange(_context.Imagens.Where(x => x.AlbumId == AlbumId));
+
+            string linkFotoAlbum = album.FotoTopo;
+            linkFotoAlbum = linkFotoAlbum.Replace("~", "wwwroot");
+            System.IO.File.Delete(linkFotoAlbum);
+
+
             _context.Albuns.Remove(album);
             await _context.SaveChangesAsync();
             return Json("Album exluído com sucesso");
