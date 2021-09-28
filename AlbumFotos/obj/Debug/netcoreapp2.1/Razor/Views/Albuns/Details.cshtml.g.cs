@@ -117,7 +117,7 @@ using AlbumFotos.Models;
             WriteLiteral("</div>\r\n    </div>\r\n\r\n    <div class=\"botoes\">\r\n        ");
             EndContext();
             BeginContext(689, 109, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb5e1aae4d534d9aba70688d4812376a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b355eba64f7443458ca8f064ab98f631", async() => {
                 BeginContext(785, 9, true);
                 WriteLiteral("Nova foto");
                 EndContext();
@@ -155,7 +155,7 @@ using AlbumFotos.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(810, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4d1d3bf9ba8241a29c94d182cce24f26", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3a898832474b45cfb66d9c3781cd19f3", async() => {
                 BeginContext(864, 6, true);
                 WriteLiteral("Voltar");
                 EndContext();
